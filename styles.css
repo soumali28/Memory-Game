@@ -116,7 +116,7 @@ h1{
     background: #e2043b;
   }
   
-  .deck .card .disabled {
+  .deck .card.disabled {
     pointer-events: none;
     opacity: 0.9;
   }
